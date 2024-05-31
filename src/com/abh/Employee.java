@@ -20,7 +20,7 @@ public class Employee {
 			s1 = s1+arr[i];
 		}
 		if(s1.equals(s1)) {
-			System.out.println("it is palindrome");
+			System.out.println("it is palindrome iiiiiiiii");
 			
 		}
 		else {
